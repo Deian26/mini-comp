@@ -1,0 +1,2 @@
+# MiniComp
+Multi-purpose microcontroller.
