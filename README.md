@@ -1,2 +1,2 @@
 # MiniComp
-Multi-purpose microcontroller.
+Simple, multi-purpose Single Board Computer.
